@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.108.3](https://www.github.com/googleapis/java-pubsub/compare/v1.108.2...v1.108.3) (2020-08-27)
+
+
+### Bug Fixes
+
+* ensure proper cleanup of publisher in tests ([#310](https://www.github.com/googleapis/java-pubsub/issues/310)) ([b2b2f86](https://www.github.com/googleapis/java-pubsub/commit/b2b2f8694b925aad95e891cbd0d89426989fec59))
+
 ### [1.108.2](https://www.github.com/googleapis/java-pubsub/compare/v1.108.1...v1.108.2) (2020-08-21)
 
 
